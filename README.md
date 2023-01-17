@@ -1,11 +1,12 @@
 # memoria-medica
 Proceso de diseño de la Skill Memoria Médica
 
-[Enlace-mvp-con-voiceflow|][https://drive.google.com/file/d/1uK_qSgFEieF29y8alpvHe8D856-C6lfx/view?usp=share_link](url)
-[Enlace-mvp-con-alexa-developer-console|]https://drive.google.com/file/d/1XbiPULgHiH-pC7DQnTSpp5pQyWya6w0l/view?usp=share_link
+[https://drive.google.com/file/d/1uK_qSgFEieF29y8alpvHe8D856-C6lfx/view?usp=share_link](Enlace-mvp-con-voiceflow)
+[https://drive.google.com/file/d/1uK_qSgFEieF29y8alpvHe8D856-C6lfx/view?usp=share_link](Enlace-mvp-con-voiceflow)
+
 
 ![Portada](https://user-images.githubusercontent.com/32878468/212780483-39d1768c-fdbc-4849-9f4e-c1330be52223.png)
-[![Preguntas-retoricas](https://user-images.githubusercontent.com/32878468/212780493-dc75fc45-63dd-4457-bf15-35df04f160f6.png)
+![Preguntas-retoricas](https://user-images.githubusercontent.com/32878468/212780493-dc75fc45-63dd-4457-bf15-35df04f160f6.png)
 ![Problematica-01](https://user-images.githubusercontent.com/32878468/212780505-799dae8e-7b51-49a7-8870-ca2dfd18c894.png)
 ![Problematica-02](https://user-images.githubusercontent.com/32878468/212780531-8d26f844-b696-4ecd-ad63-a73a625c5c58.png)
 ![Problematica-03](https://user-images.githubusercontent.com/32878468/212780545-ddf85256-2868-4e68-9e6e-a79436335325.png)

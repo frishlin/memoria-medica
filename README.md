@@ -1,12 +1,12 @@
 # Reto Alexa Skills - Mujeres en Tecnología 2022 
 
-Equipo Ganador de los 3 sprints y del Reto - The Skillers _[Ver equipos ganadores](https://www.retomujeresentecnologia.com/ganadoras)_
+Equipo Ganador de los 3 sprints y del Reto - The Skillers 
+Sitio del Reto _[Ver equipos ganadores](https://www.retomujeresentecnologia.com/ganadoras)_
+Diploma _[Ver Diploma](https://drive.google.com/file/d/1XgVTdeL8yS1OhBoo0sYot-YfQ7Cf-RsN/view?usp=sharing)_
 
 * Sprint 1: Propuesta de valor
 * Sprint 2: Demo y MVP (Voiceflow o Alexa Developer Console)
 * Sprint 3: Demo funcionando en un dispositivo Echo dot.
-* 
-_[Ver Diploma](https://drive.google.com/file/d/1XgVTdeL8yS1OhBoo0sYot-YfQ7Cf-RsN/view?usp=sharing)_
 
 ## Proceso de diseño de la Skill Memoria Médica
 

@@ -1,8 +1,9 @@
 # memoria-medica
 Proceso de diseño de la Skill Memoria Médica
 
-_[Enlace-mvp-con-voiceflow](https://drive.google.com/file/d/1uK_qSgFEieF29y8alpvHe8D856-C6lfx/view?usp=share_link)_
-_[Enlace-mvp-con-alexa-developer-console](https://drive.google.com/file/d/1XbiPULgHiH-pC7DQnTSpp5pQyWya6w0l/view?usp=share_link)_
+El MVP de Memoria Médica realizado en voiceflow, puede verse en el siguiente enlace: _[Enlace-mvp-con-voiceflow](https://drive.google.com/file/d/1uK_qSgFEieF29y8alpvHe8D856-C6lfx/view?usp=share_link)_
+
+El MVP de Memoria Médica realizado en voiceflow, puede verse en el siguiente enlace: _[Enlace-mvp-con-alexa-developer-console](https://drive.google.com/file/d/1XbiPULgHiH-pC7DQnTSpp5pQyWya6w0l/view?usp=share_link)_
 
 
 ![Portada](https://user-images.githubusercontent.com/32878468/212780483-39d1768c-fdbc-4849-9f4e-c1330be52223.png)

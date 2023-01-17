@@ -1,5 +1,12 @@
-# memoria-medica
-Proceso de diseño de la Skill Memoria Médica
+# Reto Alexa Skills - Mujeres en Tecnología 2022 
+
+Equipo Ganador de los 3 sprints y del Reto - The Skillers _[Ver equipos ganadores](https://www.retomujeresentecnologia.com/ganadoras)_
+
+Sprint 1: Propuesta de valor
+Sprint 2: Demo y MVP (Voiceflow o Alexa Developer Console)
+Sprint 3: Demo funcionando en un dispositivo Echo dot.
+
+## Proceso de diseño de la Skill Memoria Médica
 
 El MVP de Memoria Médica realizado en voiceflow, puede verse en el siguiente enlace: _[Enlace-mvp-con-voiceflow](https://drive.google.com/file/d/1uK_qSgFEieF29y8alpvHe8D856-C6lfx/view?usp=share_link)_
 

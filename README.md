@@ -5,8 +5,9 @@ Equipo Ganador de los 3 sprints y del Reto - The Skillers _[Ver equipos ganadore
 Sprint 1: Propuesta de valor
 Sprint 2: Demo y MVP (Voiceflow o Alexa Developer Console)
 Sprint 3: Demo funcionando en un dispositivo Echo dot.
+_[Ver Diploma](https://drive.google.com/file/d/1XgVTdeL8yS1OhBoo0sYot-YfQ7Cf-RsN/view?usp=sharing)_
 
-## Proceso de diseño de la Skill Memoria Médica _[Diploma](https://github.com/frishlin/memoria-medica/files/10430147/FIN_RETOSKILL_1er_lugar.pdf)_
+## Proceso de diseño de la Skill Memoria Médica
 
 El MVP de Memoria Médica realizado en voiceflow, puede verse en el siguiente enlace: _[Enlace-mvp-con-voiceflow](https://drive.google.com/file/d/1uK_qSgFEieF29y8alpvHe8D856-C6lfx/view?usp=share_link)_
 
